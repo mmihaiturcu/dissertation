@@ -7,3 +7,5 @@
 ### 🖥️ Front-end platform - https://github.com/mmihaiturcu/breadwinner-fe
 ### 📡 Back-end system - https://github.com/mmihaiturcu/breadwinner-be
 ### ⚙️ Web module - https://github.com/mmihaiturcu/breadwinner
+### 🦫 Beavers (partnered website integration example) front-end platform - https://github.com/mmihaiturcu/beavers-fe
+### 🦫 Beavers (partnered website integration example) back-end platform - https://github.com/mmihaiturcu/beavers-be
