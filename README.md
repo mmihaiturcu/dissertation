@@ -2,6 +2,7 @@
 ## 📁 Documents 
 ### 📄 Dissertation - https://github.com/mmihaiturcu/dissertation/blob/main/Dissertation.pdf
 ### 📖 Presentation - https://github.com/mmihaiturcu/dissertation/blob/main/Presentation.pptx
+### 🎥 Video demo - https://github.com/mmihaiturcu/dissertation/blob/main/Demo.mp4
 
 ## 💽 Source code
 ### 🖥️ Front-end platform - https://github.com/mmihaiturcu/breadwinner-fe
