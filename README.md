@@ -10,3 +10,8 @@
 ### ⚙️ Web module - https://github.com/mmihaiturcu/breadwinner
 ### 🦫 Beavers (partnered website integration example) front-end platform - https://github.com/mmihaiturcu/beavers-fe
 ### 🦫 Beavers (partnered website integration example) back-end platform - https://github.com/mmihaiturcu/beavers-be
+
+
+## 🕹️ Demo
+### FE Ngrok: https://9ad5-2a02-2f0d-2304-3100-a177-e8c3-a830-442e.ngrok.io
+### BE Ngrok: https://8418-2a02-2f0d-2304-3100-a177-e8c3-a830-442e.ngrok.io
